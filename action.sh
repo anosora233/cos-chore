@@ -2,4 +2,4 @@
 
 MODDIR=${0%/*}
 
-exec sh "$MODDIR/scripts/surfaceflinger.sh"
+exec sh "$MODDIR/scripts/display.sh"
